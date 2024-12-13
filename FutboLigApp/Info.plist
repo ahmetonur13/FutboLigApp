@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TOP_SCORERS_API_KEY</key>
+	<string>$(TOP_SCORERS_API_KEY)</string>
+	<key>PLAYER_MATCHES_API_KEY</key>
+	<string>$(PLAYER_MATCHES_API_KEY)</string>
+	<key>STANDINGS_API_KEY</key>
+	<string>$(STANDINGS_API_KEY)</string>
+	<key>TEAM_MATCHES_API_KEY</key>
+	<string>$(TEAM_MATCHES_API_KEY)</string>
+	<key>TEAM_DATA_SERVICE_API_KEY</key>
+	<string>$(TEAM_DATA_SERVICE_API_KEY)</string>
+</dict>
+</plist>
