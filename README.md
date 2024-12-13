@@ -1,5 +1,6 @@
 # FutboLigApp
 https://apps.apple.com/tr/app/futbolig/id6737770121?l=tr
+
 "Get live scores, player stats, team details, and match updates in one app. Stay connected to football and never miss the action!"
 
 "Stay updated with comprehensive football data at your fingertips! Our app provides detailed insights into players, teams, and matches, offering everything a football enthusiast needs.
